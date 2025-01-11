@@ -1,0 +1,11 @@
+div{
+    color: blueviolet;
+    padding: 20px;
+
+}
+p{
+    background-color: yellow;
+    border: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
